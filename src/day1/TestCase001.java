@@ -1,12 +1,10 @@
 package day1;
 
 public class TestCase001 {
+    // test case 001
 
-    //Test Case 001
-
-    // Testing login
-
+    //testing login
     //using valid credentials
 
-
+    // testing using invalid credentials
 }
